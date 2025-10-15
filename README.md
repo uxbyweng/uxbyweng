@@ -9,7 +9,8 @@ I’m a UX/UI web designer and frontend developer from Berlin, passionate about 
 **Get in touch**
 
 -   [weng.eu](https://weng.eu/)
--   info@weng.eu
+-   karsten@weng.eu
 -   [LinkedIn](https://www.linkedin.com/in/kweng/)
+
 
 
