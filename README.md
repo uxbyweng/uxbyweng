@@ -14,18 +14,17 @@ I’m a Frontend Developer from Berlin, passionate about creating fast, accessib
 
 #### Frameworks, Tools and Technologies I use
 <img src="https://cdn.simpleicons.org/git/000/fff" alt="Node" width=24> <img src="https://cdn.simpleicons.org/bootstrap/000/fff" alt="Node" width=24>
-<img src="https://cdn.simpleicons.org/nodedotjs/000/fff" alt="Node" width=24> <img src="https://cdn.simpleicons.org/react/000/fff" alt="Node" width=24>
+<img src="https://cdn.simpleicons.org/nodedotjs/000/fff" alt="Node" width=24> 
 
-#### 💻 Currently learning about
-
--   React
--   three.js / WebGL
+#### Currently learning about
+<img src="https://cdn.simpleicons.org/react/000/fff" alt="React" width=24> <img src="https://cdn.simpleicons.org/three.js/000/fff" alt="React" width=24> <img src="https://cdn.simpleicons.org/WebGL/000/fff" alt="React" width=24>
 
 #### 💬 Get in touch
 
 -   [weng.eu](https://weng.eu/)
 -   karsten@weng.eu
 -   [LinkedIn](https://www.linkedin.com/in/kweng/)
+
 
 
 
