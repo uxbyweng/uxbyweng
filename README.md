@@ -1,5 +1,4 @@
 ﻿### Hi everyone🦎
-<img src="https://weng.eu/assets/img/contact/img-contact.webp" alt="Karsten Weng" width="100">
 
 I’m a Frontend Developer from Berlin, passionate about creating fast, accessible, and people-first websites. I enjoy working with PHP, Bootstrap/Sass, and modern frontend workflows. Over the years, I’ve focused on building clean, maintainable interfaces that balance performance with accessibility. My background combines design and development, which helps me bridge aesthetics with usability in every project.
 
@@ -23,6 +22,7 @@ I’m a Frontend Developer from Berlin, passionate about creating fast, accessib
 -   [weng.eu](https://weng.eu/)
 -   karsten@weng.eu
 -   [LinkedIn](https://www.linkedin.com/in/kweng/)
+
 
 
 
