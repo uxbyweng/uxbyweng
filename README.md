@@ -1,5 +1,4 @@
 ﻿### Hi everyone🦎
-
 <img src="https://weng.eu/assets/img/contact/img-contact.webp" alt="Karsten Weng" width="100">
 
 I’m a Frontend Developer from Berlin, passionate about creating fast, accessible, and people-first websites. I enjoy working with PHP, Bootstrap/Sass, and modern frontend workflows. Over the years, I’ve focused on building clean, maintainable interfaces that balance performance with accessibility. My background combines design and development, which helps me bridge aesthetics with usability in every project.
@@ -9,21 +8,22 @@ I’m a Frontend Developer from Berlin, passionate about creating fast, accessib
 -   Focus: Accessibility, performance, clean code
 
 #### Programming Languages
-<img src="https://cdn.simpleicons.org/html5/000/fff" alt="Node" width=24> <img src="https://cdn.simpleicons.org/css/000/fff" alt="Node" width=24>
-<img src="https://cdn.simpleicons.org/javascript/000/fff" alt="Node" width=24> <img src="https://cdn.simpleicons.org/php/000/fff" alt="Node" width=24>
+<img src="https://cdn.simpleicons.org/html5/000/fff" alt="HTML5" width=24> <img src="https://cdn.simpleicons.org/css/000/fff" alt="CSS" width=24>
+<img src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript" width=24> <img src="https://cdn.simpleicons.org/php/000/fff" alt="PHP" width=24>
 
 #### Frameworks, Tools and Technologies I use
-<img src="https://cdn.simpleicons.org/git/000/fff" alt="Node" width=24> <img src="https://cdn.simpleicons.org/bootstrap/000/fff" alt="Node" width=24>
-<img src="https://cdn.simpleicons.org/nodedotjs/000/fff" alt="Node" width=24> 
+<img src="https://cdn.simpleicons.org/git/000/fff" alt="Git" width=24> <img src="https://cdn.simpleicons.org/bootstrap/000/fff" alt="Bootstrap" width=24>
+<img src="https://cdn.simpleicons.org/nodedotjs/000/fff" alt="Node.js" width=24> 
 
 #### Currently learning about
-<img src="https://cdn.simpleicons.org/react/000/fff" alt="React" width=24> <img src="https://cdn.simpleicons.org/three.js/000/fff" alt="React" width=24> <img src="https://cdn.simpleicons.org/WebGL/000/fff" alt="React" width=24>
+<img src="https://cdn.simpleicons.org/react/000/fff" alt="React" width=24> <img src="https://cdn.simpleicons.org/three.js/000/fff" alt="three.js" width=24> <img src="https://cdn.simpleicons.org/WebGL/000/fff" alt="WebGL" width=24>
 
 #### 💬 Get in touch
 
 -   [weng.eu](https://weng.eu/)
 -   karsten@weng.eu
 -   [LinkedIn](https://www.linkedin.com/in/kweng/)
+
 
 
 
